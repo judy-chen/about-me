@@ -63,7 +63,7 @@ topics:
     web_url: https://discord.js.org/#/
     image_url: https://raw.githubusercontent.com/github/explore/0a84ca418425da147e4e43b1c74aa169d3265870/topics/bot/bot.png
     
-   - name: SQL
+  - name: SQL
     web_url: https://github.com/topics/sql
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
     
