@@ -24,9 +24,9 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+    - about-me
 
 # social_media:
   # behance: your_username
